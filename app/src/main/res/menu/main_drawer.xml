@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+
+        <item
+            android:id="@+id/icon_male"
+            android:icon="@drawable/user_male"
+            android:title="User" />
+        <item
+            android:id="@+id/icon_like"
+            android:icon="@drawable/like"
+            android:title="Like" />
+        <item
+            android:id="@+id/icon_heart"
+            android:icon="@drawable/heart"
+            android:title="Heart" />
+        <item
+            android:id="@+id/icon_cloud"
+            android:icon="@drawable/cloud"
+            android:title="Cloud"
+            />
+        <item
+            android:id="@+id/icon_exit"
+            android:icon="@drawable/exit"
+            android:title="Exit"
+            />
+    </group>
+</menu>

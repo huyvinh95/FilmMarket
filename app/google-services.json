@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920293660501",
+    "firebase_url": "https://androidfilmmarket.firebaseio.com",
+    "project_id": "androidfilmmarket",
+    "storage_bucket": "androidfilmmarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920293660501:android:cfe05a1f9d5ddf2c",
+        "android_client_info": {
+          "package_name": "com.vnh.filmmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920293660501-pa33apiejgjueirtuo23ijo7eh4bkcul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vnh.filmmarket",
+            "certificate_hash": "4A8AF19740E5D8211CEE5DE5E99FA84E7E5BEFB0"
+          }
+        },
+        {
+          "client_id": "920293660501-eh9ek7pdlp60br431409h75u6n54uvbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHQnsdaOs4Z73KRpqii1I7eBJs4SihcY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920293660501-eh9ek7pdlp60br431409h75u6n54uvbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
